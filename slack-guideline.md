@@ -37,4 +37,5 @@ Techpit Projectワークスペースに加入すると、デフォルトで以�
 ### パブリックチャンネル
 Techpit Projectワークスペースにあるパブリックチャンネルの紹介です。
 
-- `#rails`：Ruby on Railsに関する情報を共有をするチャンネル。
+- `#rails`：Ruby on Railsに関する情報を共有をするチャンネル
+- `#php`：PHPに関する情報を共有するチャンネル
